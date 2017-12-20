@@ -1,0 +1,10 @@
+She was motivated to do the tasks correctly.
+It was raining. She was a bit late.
+
+*There was an issue: After finishing the first cash door game, she clicked continue. I told her not to press
+anything, so the program eventually stopped because of too many too slows.
+For this reason, the first trials will have to be excluded from the analysis. She also did less trials than a
+100, maybe 95. 
+I have to check that the first four rewards were selected accordingly in the second part.
+
+At the end she asked what the study was about.

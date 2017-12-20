@@ -1,0 +1,45 @@
+
+```{r, echo = FALSE}
+source('Cash_doors_scripts/Cashdoors_pvalues.R')
+
+```
+
+```{r}
+print(pvalues_memory)
+```
+
+
+```{r}
+print(pvalues_outcome)
+```
+
+```{r}
+anova(lm(risk_first_to_mind ~ condition, data = subset(total_risk_per_participant, condition != 'Control')))
+
+anova(lm(risk_first_to_mind ~ condition, data = subset(total_risk_per_participant, condition != 'Episodic')))
+
+anova(lm(risk_first_to_mind ~ condition, data = subset(total_risk_per_participant, condition != 'General')))
+```
+
+```{r}
+
+anova(lm(total_risk ~ risk_first_to_mind + condition + 
+           risk_first_to_mind*condition, data = total_risk_per_participant))
+
+
+anova(lm(total_risk ~ risk_first_to_mind + condition + 
+           risk_first_to_mind*condition, data = subset(total_risk_per_participant, condition != 'Control')))
+
+
+anova(lm(total_risk ~ risk_first_to_mind + condition + 
+           risk_first_to_mind*condition, data = subset(total_risk_per_participant, condition != 'Episodic')))
+
+
+anova(lm(total_risk ~ risk_first_to_mind + condition + 
+           risk_first_to_mind*condition, data = subset(total_risk_per_participant, condition != 'General')))
+
+
+
+
+```
+

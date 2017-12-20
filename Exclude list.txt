@@ -1,0 +1,19 @@
+FOR SURE to be excluded:
+
+cd6: Almost no risky decisions
+cd36: Almost no exploration at beginning (for like first 75 trials)
+cd38: Exploration first 20 trials, then no risky choice until trial 60
+cd40: No risky choice after trial 20. 
+ct05: No risk until trial 30. 
+cd11 (took trial 50 to choose risk 4 times)
+
+Considering: Because of low overall risk-taking:
+ct19(low during first 40 trials, then high during rest of study). 
+Don't want to but cd15??(0.151)
+
+
+
+Considering: Because of high overall risk-taking:
+cd19
+cd5
+ct08

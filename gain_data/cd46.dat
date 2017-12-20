@@ -1,0 +1,221 @@
+Wed Jun 21 14:34:51 2017	
+141	1	second_win	3150	False	left	0.5	2	first_time	0.0125	
+141	2	second_win	-1	NA	NA	-1	NA	first_time	0.0125	
+141	3	second_win	1193	True	right	0	4	first_time	0.0125	
+141	4	second_win	467	False	left	0.5	2	first_time	0.025	
+141	5	second_win	-1	NA	NA	-1	NA	first_time	0.025	
+141	6	second_win	395	False	left	0.5	2	first_time	0.0375	
+141	7	second_win	536	False	left	0.5	2	first_time	0.05	
+141	8	second_win	2081	False	left	0.5	2	first_time	0.0625	
+141	9	second_win	1935	False	left	0.5	2	first_time	0.075	
+141	10	second_win	489	False	left	0.5	2	first_time	0.0875	
+141	11	second_win	193	False	left	0.5	2	first_time	0.1	
+141	12	second_win	690	False	left	0.5	2	first_time	0.1125	
+141	13	second_win	321	False	left	0.5	2	first_time	0.125	
+141	14	second_win	368	False	left	0.5	2	first_time	0.1375	
+141	15	second_win	504	True	right	1	4	first_time	0.1625	
+141	16	second_win	849	False	left	0.5	2	first_time	0.175	
+141	17	second_win	1159	True	right	0	4	first_time	0.175	
+141	18	second_win	343	False	left	0.5	2	first_time	0.1875	
+141	19	second_win	561	False	left	0.5	2	first_time	0.2	
+141	20	second_win	186	False	left	0.5	2	first_time	0.2125	
+141	21	second_win	352	True	right	1	4	first_time	0.2375	
+141	22	second_win	352	False	left	0.5	2	first_time	0.25	
+141	23	second_win	311	False	left	0.5	2	first_time	0.2625	
+141	24	second_win	668	False	left	0.5	2	first_time	0.275	
+141	25	second_win	260	True	right	0	4	first_time	0.275	
+141	26	second_win	469	True	right	0	4	first_time	0.275	
+141	27	second_win	622	True	right	1	4	first_time	0.3	
+141	28	second_win	549	False	left	0.5	2	first_time	0.3125	
+141	29	second_win	229	False	left	0.5	2	first_time	0.325	
+141	30	second_win	934	True	right	1	4	first_time	0.35	
+141	31	second_win	249	False	left	0.5	2	first_time	0.3625	
+141	32	second_win	296	False	left	0.5	2	first_time	0.375	
+141	33	second_win	1886	False	left	0.5	2	first_time	0.3875	
+141	34	second_win	344	True	right	0	4	first_time	0.3875	
+141	35	second_win	0	False	left	0.5	2	first_time	0.4	
+141	36	second_win	634	False	left	0.5	2	first_time	0.4125	
+141	37	second_win	1286	True	right	0	4	first_time	0.4125	
+141	38	second_win	323	True	right	1	4	first_time	0.4375	
+141	39	second_win	2676	True	right	1	4	first_time	0.4625	
+141	40	second_win	1009	False	left	0.5	2	first_time	0.475	
+141	41	second_win	442	True	right	1	4	first_time	0.5	
+141	42	second_win	313	False	left	0.5	2	first_time	0.5125	
+141	43	second_win	2810	False	left	0.5	2	first_time	0.525	
+141	44	second_win	850	True	right	0	4	first_time	0.525	
+141	45	second_win	368	False	left	0.5	2	first_time	0.5375	
+141	46	second_win	210	False	left	0.5	2	first_time	0.55	
+141	47	second_win	1066	True	right	0	4	first_time	0.55	
+141	48	second_win	355	True	right	0	4	first_time	0.55	
+141	49	second_win	899	True	right	0	4	first_time	0.55	
+141	50	second_win	277	False	left	0.5	2	first_time	0.5625	
+141	51	second_win	342	True	right	0	4	first_time	0.5625	
+141	52	second_win	238	False	left	0.5	2	first_time	0.575	
+141	53	second_win	287	False	left	0.5	2	first_time	0.5875	
+141	54	second_win	444	False	left	0.5	2	first_time	0.6	
+141	55	second_win	658	True	right	0	4	first_time	0.6	
+141	56	second_win	503	False	left	0.5	2	first_time	0.6125	
+141	57	second_win	438	False	left	0.5	2	first_time	0.625	
+141	58	second_win	286	True	right	1	4	first_time	0.65	
+141	59	second_win	1307	True	right	0	4	first_time	0.65	
+141	60	second_win	416	False	left	0.5	2	first_time	0.6625	
+141	61	second_win	608	False	left	0.5	2	first_time	0.675	
+141	62	second_win	438	False	left	0.5	2	first_time	0.6875	
+141	63	second_win	461	True	right	1	4	first_time	0.7125	
+141	64	second_win	430	False	left	0.5	2	first_time	0.725	
+141	65	second_win	563	True	right	0	4	first_time	0.725	
+141	66	second_win	516	True	right	0	4	first_time	0.725	
+141	67	second_win	1	False	left	0.5	2	first_time	0.7375	
+141	68	second_win	662	False	left	0.5	2	first_time	0.75	
+141	69	second_win	1406	True	right	0	4	first_time	0.75	
+141	70	second_win	424	False	left	0.5	2	first_time	0.7625	
+141	71	second_win	293	True	right	1	4	first_time	0.7875	
+141	72	second_win	414	False	left	0.5	2	first_time	0.8	
+141	73	second_win	1150	True	right	1	4	first_time	0.825	
+141	74	second_win	347	False	left	0.5	2	first_time	0.8375	
+141	75	second_win	364	False	left	0.5	2	first_time	0.85	
+141	76	second_win	460	True	right	1	4	first_time	0.875	
+141	77	second_win	766	False	left	0.5	2	first_time	0.8875	
+141	78	second_win	1559	True	right	0	4	first_time	0.8875	
+141	79	second_win	1774	False	left	0.5	2	first_time	0.9	
+141	80	second_win	391	True	right	1	4	first_time	0.925	
+141	81	second_win	499	False	left	0.5	2	first_time	0.9375	
+141	82	second_win	489	False	left	0.5	2	first_time	0.95	
+141	83	second_win	280	True	right	0	4	first_time	0.95	
+141	84	second_win	353	False	left	0.5	2	first_time	0.9625	
+141	85	second_win	561	False	left	0.5	2	first_time	0.975	
+141	86	second_win	345	True	right	0	4	first_time	0.975	
+141	87	second_win	539	False	left	0.5	2	first_time	0.9875	
+141	88	second_win	296	False	left	0.5	2	first_time	1.0	
+141	89	second_win	225	True	right	0	4	first_time	1.0	
+141	90	second_win	535	False	left	0.5	2	first_time	1.0125	
+141	91	second_win	477	True	right	1	4	first_time	1.0375	
+141	92	second_win	660	False	left	0.5	2	first_time	1.05	
+141	93	second_win	419	False	left	0.5	2	first_time	1.0625	
+141	94	second_win	501	True	right	1	4	first_time	1.0875	
+141	95	second_win	421	False	left	0.5	2	first_time	1.1	
+141	96	second_win	345	True	right	0	4	first_time	1.1	
+141	97	second_win	343	False	left	0.5	2	first_time	1.1125	
+141	98	second_win	440	False	left	0.5	2	first_time	1.125	
+141	99	second_win	1727	True	right	0	4	first_time	1.125	
+141	100	second_win	747	True	right	1	4	first_time	1.15	
+141	1.25	left	first_to_mind	2	4	1	False	
+141	0	right	first_to_mind	4	4	1	True	
+141	100	left	1.25	2	4	1	False	
+141	0	right	1.25	4	4	1	True	
+141	0	left	2.5	2	4	1	False	
+141	60	right	0	4	4	1	True	
+141	0	left	0	2	4	1	False	
+141	40	right	2.5	4	4	1	True	
+141	8.5	left	confidence	2	4	1	False	
+141	1	first_win	-1	NA	NA	-1	NA	second_time	1.15	
+141	2	first_win	1447	False	right	0.5	1	second_time	1.1625	
+141	3	first_win	432	False	right	0.5	1	second_time	1.175	
+141	4	first_win	411	False	right	0.5	1	second_time	1.1875	
+141	5	first_win	378	True	left	1	3	second_time	1.2125	
+141	6	first_win	322	False	right	0.5	1	second_time	1.225	
+141	7	first_win	291	True	left	0	3	second_time	1.225	
+141	8	first_win	191	False	right	0.5	1	second_time	1.2375	
+141	9	first_win	209	True	left	1	3	second_time	1.2625	
+141	10	first_win	217	False	right	0.5	1	second_time	1.275	
+141	11	first_win	257	True	left	0	3	second_time	1.275	
+141	12	first_win	176	False	right	0.5	1	second_time	1.2875	
+141	13	first_win	200	False	right	0.5	1	second_time	1.3	
+141	14	first_win	385	True	left	0	3	second_time	1.3	
+141	15	first_win	185	False	right	0.5	1	second_time	1.3125	
+141	16	first_win	208	False	right	0.5	1	second_time	1.325	
+141	17	first_win	247	True	left	0	3	second_time	1.325	
+141	18	first_win	392	True	left	0	3	second_time	1.325	
+141	19	first_win	0	False	right	0.5	1	second_time	1.3375	
+141	20	first_win	227	False	right	0.5	1	second_time	1.35	
+141	21	first_win	171	True	left	0	3	second_time	1.35	
+141	22	first_win	192	False	right	0.5	1	second_time	1.3625	
+141	23	first_win	152	True	left	0	3	second_time	1.3625	
+141	24	first_win	0	False	right	0.5	1	second_time	1.375	
+141	25	first_win	353	True	left	0	3	second_time	1.375	
+141	26	first_win	490	True	left	0	3	second_time	1.375	
+141	27	first_win	418	True	left	1	3	second_time	1.4	
+141	28	first_win	401	False	right	0.5	1	second_time	1.4125	
+141	29	first_win	330	False	right	0.5	1	second_time	1.425	
+141	30	first_win	0	False	right	0.5	1	second_time	1.4375	
+141	31	first_win	242	False	right	0.5	1	second_time	1.45	
+141	32	first_win	202	True	left	0	3	second_time	1.45	
+141	33	first_win	173	True	left	1	3	second_time	1.475	
+141	34	first_win	414	True	left	1	3	second_time	1.5	
+141	35	first_win	190	True	left	1	3	second_time	1.525	
+141	36	first_win	1944	False	right	0.5	1	second_time	1.5375	
+141	37	first_win	280	True	left	1	3	second_time	1.5625	
+141	38	first_win	418	True	left	1	3	second_time	1.5875	
+141	39	first_win	368	True	left	0	3	second_time	1.5875	
+141	40	first_win	216	True	left	0	3	second_time	1.5875	
+141	41	first_win	399	False	right	0.5	1	second_time	1.6	
+141	42	first_win	360	False	right	0.5	1	second_time	1.6125	
+141	43	first_win	238	True	left	0	3	second_time	1.6125	
+141	44	first_win	583	True	left	1	3	second_time	1.6375	
+141	45	first_win	287	True	left	1	3	second_time	1.6625	
+141	46	first_win	254	True	left	1	3	second_time	1.6875	
+141	47	first_win	176	False	right	0.5	1	second_time	1.7	
+141	48	first_win	305	False	right	0.5	1	second_time	1.7125	
+141	49	first_win	201	True	left	0	3	second_time	1.7125	
+141	50	first_win	219	True	left	1	3	second_time	1.7375	
+141	51	first_win	339	True	left	0	3	second_time	1.7375	
+141	52	first_win	531	False	right	0.5	1	second_time	1.75	
+141	53	first_win	314	False	right	0.5	1	second_time	1.7625	
+141	54	first_win	457	False	right	0.5	1	second_time	1.775	
+141	55	first_win	280	False	right	0.5	1	second_time	1.7875	
+141	56	first_win	713	False	right	0.5	1	second_time	1.8	
+141	57	first_win	0	False	right	0.5	1	second_time	1.8125	
+141	58	first_win	449	True	left	1	3	second_time	1.8375	
+141	59	first_win	226	True	left	1	3	second_time	1.8625	
+141	60	first_win	223	True	left	0	3	second_time	1.8625	
+141	61	first_win	539	False	right	0.5	1	second_time	1.875	
+141	62	first_win	-1	NA	NA	-1	NA	second_time	1.875	
+141	63	first_win	7	True	left	0	3	second_time	1.875	
+141	64	first_win	222	False	right	0.5	1	second_time	1.8875	
+141	65	first_win	-1	NA	NA	-1	NA	second_time	1.8875	
+141	66	first_win	504	False	right	0.5	1	second_time	1.9	
+141	67	first_win	353	False	right	0.5	1	second_time	1.9125	
+141	68	first_win	602	True	left	0	3	second_time	1.9125	
+141	69	first_win	331	True	left	1	3	second_time	1.9375	
+141	70	first_win	388	True	left	0	3	second_time	1.9375	
+141	71	first_win	291	False	right	0.5	1	second_time	1.95	
+141	72	first_win	858	True	left	1	3	second_time	1.975	
+141	73	first_win	505	True	left	0	3	second_time	1.975	
+141	74	first_win	336	False	right	0.5	1	second_time	1.9875	
+141	75	first_win	480	False	right	0.5	1	second_time	2.0	
+141	76	first_win	918	False	right	0.5	1	second_time	2.0125	
+141	77	first_win	463	False	right	0.5	1	second_time	2.025	
+141	78	first_win	421	False	right	0.5	1	second_time	2.0375	
+141	79	first_win	429	True	left	0	3	second_time	2.0375	
+141	80	first_win	221	True	left	1	3	second_time	2.0625	
+141	81	first_win	221	True	left	1	3	second_time	2.0875	
+141	82	first_win	1134	True	left	0	3	second_time	2.0875	
+141	83	first_win	286	True	left	0	3	second_time	2.0875	
+141	84	first_win	232	True	left	0	3	second_time	2.0875	
+141	85	first_win	446	True	left	0	3	second_time	2.0875	
+141	86	first_win	469	True	left	1	3	second_time	2.1125	
+141	87	first_win	404	True	left	0	3	second_time	2.1125	
+141	88	first_win	292	False	right	0.5	1	second_time	2.125	
+141	89	first_win	356	False	right	0.5	1	second_time	2.1375	
+141	90	first_win	203	False	right	0.5	1	second_time	2.15	
+141	91	first_win	221	False	right	0.5	1	second_time	2.1625	
+141	92	first_win	1165	False	right	0.5	1	second_time	2.175	
+141	93	first_win	286	False	right	0.5	1	second_time	2.1875	
+141	94	first_win	-1	NA	NA	-1	NA	second_time	2.1875	
+141	95	first_win	1131	True	left	1	3	second_time	2.2125	
+141	96	first_win	329	True	left	1	3	second_time	2.2375	
+141	97	first_win	515	True	left	1	3	second_time	2.2625	
+141	98	first_win	1298	True	left	0	3	second_time	2.2625	
+141	99	first_win	818	True	left	0	3	second_time	2.2625	
+141	100	first_win	255	False	right	0.5	1	second_time	2.275	
+141	0	left	first_to_mind	3	3	2	True	
+141	1.25	right	first_to_mind	1	3	2	False	
+141	35	left	2.5	3	3	2	True	
+141	0	right	2.5	1	3	2	False	
+141	0	left	1.25	3	3	2	True	
+141	100	right	1.25	1	3	2	False	
+141	65	left	0	3	3	2	True	
+141	0	right	0	1	3	2	False	
+141	8.5	left	confidence	3	3	2	True	
+
+Wed Jun 21 15:10:19 2017

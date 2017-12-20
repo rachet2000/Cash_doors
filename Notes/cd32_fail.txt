@@ -1,0 +1,6 @@
+He was motivated to do the tasks correctly. 
+
+However, he input "0 2.5" in first outcome that comes to mind question.
+That crashed the program and we lost his data.
+
+He was paid 10$ and the experiment ended. 
